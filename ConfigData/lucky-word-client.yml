@@ -1,4 +1,4 @@
 ---
 wordConfig:
   preamble: The lucky word is
-  luckyWord: Yahoo!!! (this is updated after the client is started)
+  luckyWord: Hurray!!! I'm he lucky word for @ConfigurationProperties and @RefreshScope of Spring Cloud Bus
